@@ -49,16 +49,5 @@ AirGo is a fictional drone delivery company website created to demonstrate a cle
 - `CSS Validator/` - Validation tools or reports for CSS.
 - `HTML Validator/` - Validation tools or reports for HTML.
 
-## How to Use
-
-1. Open the `Template/index.html` file in a web browser.
-2. Navigate between pages using the top menu.
-3. Optionally, edit `Style/style.css` to customize colors, fonts, and layout.
-
-## Notes
-
-- The form on `Template/contact.html` is currently static and does not submit to a server.
-- External icons are loaded from Font Awesome via CDN.
-- The site is designed as a simple static prototype and can be extended with JavaScript or backend integration.
 
 
